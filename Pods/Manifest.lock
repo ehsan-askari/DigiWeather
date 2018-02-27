@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.6.0)
+  - Font-Awesome-Swift (1.7.2)
+  - Kingfisher (4.6.2)
+  - Realm (3.1.1):
+    - Realm/Headers (= 3.1.1)
+  - Realm/Headers (3.1.1)
+  - RealmSwift (3.1.1):
+    - Realm (= 3.1.1)
+  - SwiftyJSON (4.0.0)
+  - Toast-Swift (3.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.6)
+  - Font-Awesome-Swift (~> 1.7.2)
+  - Kingfisher (~> 4.0)
+  - RealmSwift
+  - SwiftyJSON
+  - Toast-Swift (~> 3.0.1)
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  Font-Awesome-Swift: 83ab9db365379ee6025167cec67bdc5d3226a811
+  Kingfisher: 55b9c395bf8d3949676ad3861111923990ab68cf
+  Realm: 42d1c38a5b1bbcc828b48a7ce702cb86fc68adf4
+  RealmSwift: d31937ca6a6ee54acde64ec839523c0a3c04924b
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  Toast-Swift: ba0b01b095aada709d915f9beb1d38184a2721c3
+
+PODFILE CHECKSUM: d3dcc6f0a5ba86cc2e56e4bdf5b78eedcec67d63
+
+COCOAPODS: 1.4.0
